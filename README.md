@@ -1,4 +1,5 @@
-![screencapture-localhost-5173-2025-02-03-11_43_20](https://github.com/user-attachments/assets/03aff32a-54eb-48d4-bb18-3d03c8349ee3)
+## SnapShots
+
 ![screencapture-localhost-5173-2025-02-03-11_43_20 (1)](https://github.com/user-attachments/assets/4a670c22-1b0c-45b5-b605-934ae6302178)
 ![screencapture-localhost-5173-movie-1084199-2025-02-03-11_44_08](https://github.com/user-attachments/assets/530ffd40-6e5e-488a-82d6-541682c04916)
 ![screencapture-localhost-5173-favorites-2025-02-03-11_44_22](https://github.com/user-attachments/assets/1f1e75a2-9ce0-4b7e-bac8-626287d703e5)
